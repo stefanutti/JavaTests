@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SiebelMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" MessageId="1-7MV2" xsi:noNamespaceSchemaLocation=".\DPORTALIOAssetMgmtAssetOnLine.xsd" ErrorDescription="" OperationType="RequestReply" IntObjectFormat="Siebel Hierarchical" MessageType="Integration Object" Tid="000000000000000000002222" ReturnCode="0" System="DPORTAL" IntObjectName="DPORTALsetAnagraficaPostazioni" OperationCode="" Service="setAnagraficaPostazioni">
+ 	<ListOfDportalsetanagraficapostazioni>
+ 		<Dportalbcassetmgmtassetonline>
+ 			<AssetNumber>60956.1.2</AssetNumber>
+ 			<DPORTALCentroTIM>60956</DPORTALCentroTIM>
+ 			<DPORTALChiaveHwd>S22222222222</DPORTALChiaveHwd>
+ 			<DPORTALProgPV>1</DPORTALProgPV>
+ 			<DPORTALProgPst>1</DPORTALProgPst>
+ 			<Status>è</Status>
+ 			<AccountName>30253</AccountName>
+ 			<DPORTALPstRiconfig/>
+ 		</Dportalbcassetmgmtassetonline>
+ 	</ListOfDportalsetanagraficapostazioni>
+</SiebelMessage>

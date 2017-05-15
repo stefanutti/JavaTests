@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OperazionePrepagato>
+    <CTU>47201110211505130010315</CTU>
+    <Subsystem>CRMA</Subsystem>
+    <Msisdn>
+        <Pref>339</Pref>
+        <Num>9096901</Num>
+    </Msisdn>
+    <TipoCarta>X1</TipoCarta>
+    <TecnoRadio>3</TecnoRadio>
+    <TipoOperazione>603</TipoOperazione>
+    <DataOperazione>
+        <Date>2011-10-21</Date>
+        <Time>15:05:13.001</Time>
+    </DataOperazione>
+    <CodDealer>
+        <CodSID>905</CodSID>
+    </CodDealer>
+    <AnagraficaCliente I1="2" P1="2" TipoCliente="F" I2="1">
+        <PersonaFisica>
+            <CodFiscale>KRNCLR90R50H501N</CodFiscale>
+            <DenominazioneDitta> </DenominazioneDitta>
+            <Nome>Antonioàèìòù</Nome>
+            <Cognome>Fanelliàèìòù</Cognome>
+            <DataNascita>1990-10-10</DataNascita>
+            <LuogoNascita CodNazione="I">
+                <CodComune>91</CodComune>
+                <CodProvincia>58</CodProvincia>
+            </LuogoNascita>
+            <Sesso>F</Sesso>
+            <DocIdentita>
+                <TipoDoc>1</TipoDoc>
+                <NumDoc>CLK89786</NumDoc>
+                <DataEmissioneDoc>2011-10-05</DataEmissioneDoc>
+            </DocIdentita>
+            <CertifSogei>S</CertifSogei>
+            <LuogoResidenza CodNazione="I">
+                <CodComune>91</CodComune>
+                <CodProvincia>58</CodProvincia>
+                <CodPartTopon>630</CodPartTopon>
+                <Indirizzo>V. A. SPECCHI 124</Indirizzo>
+                <NumCivico>-</NumCivico>
+                <CAP>00143</CAP>
+            </LuogoResidenza>
+        </PersonaFisica>
+    </AnagraficaCliente>
+</OperazionePrepagato>
